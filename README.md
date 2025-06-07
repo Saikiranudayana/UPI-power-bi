@@ -27,6 +27,9 @@ Insight: Possibly state-wise UPI usage.
 Visual: May show regional penetration or adoption rates.
 
 
+
+
+
 ![Screenshot 2025-06-07 135220](https://github.com/user-attachments/assets/735bd9df-665c-41e7-afed-12e3838ec864)
 
 Elements: KPI cards or slicers.
